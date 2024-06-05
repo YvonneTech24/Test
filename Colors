@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <style>
+    </style>
+  </head>
+
+  <body>
+    <!--CONTAINER FOR GREEN-->
+    <div class="green1_class">
+       <p id="green_id">Green machine, the color is green.</p>
+    </div>
+
+    <div class="green2_class">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdIsx8qXRppRKSYlpI_y0MUiJ5cTBGDafQ_Q&s">
+    </div>
+
+
+    <!--CONTAINER FOR PURPLE-->
+    <div class="purple1_class">
+      <p id="purple_id">Purple people eater, the color is purple.</p>
+     </div>
+
+    <div class="purple2_class">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXfb7t9FyDwU-ommp4u_7xi2TKqj5leEYjIQ&s">
+    </div>
+
+
+    <!--CONTAINER FOR ORANGE-->
+    <div class="orange1_class">
+      <p id="orange_id">Orange is a furit. Nothing cool is organge but I'm going to find something ;).</p>
+     </div>
+
+    <div class="orange2_class">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3V3YZfwDe7DuE3CO09e_szlmiJVJdeQHIxw&s">
+    </div>
+
+  </body>
+</hmtl>
